@@ -22,4 +22,6 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XuDaojie&hide=html,css&langs_count=5" />
 </a>
 
+<!-- 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xudaojie)](https://github.com/anuraghazra/github-readme-stats)
+-->
